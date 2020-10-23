@@ -2,7 +2,8 @@
 **Dataset**:
 I will be applying a variety of machine learning methods to classify handwritten digits that are part of the MNIST dataset. 
 
-![Image of Yaktocat](https://images.app.goo.gl/1R6ovdfnyszGCsgE7)
+![digits](/images/digits.png)
+Format: ![Alt Text](url)
 
  
 The MNIST dataset consists of a test set of 10,000 examples and a training set of 60,000 examples. This particular dataset is classified, so we will be using the supervised learning algorithms detailed below. 
